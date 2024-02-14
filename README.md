@@ -1,1 +1,9 @@
-# Erlang_password_manager
+password_manager
+=====
+
+An OTP library
+
+Build
+-----
+
+    $ rebar3 compile
